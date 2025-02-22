@@ -1,1 +1,1 @@
-# UX-Couse-Udacity
+# UX-Course-Udacity
