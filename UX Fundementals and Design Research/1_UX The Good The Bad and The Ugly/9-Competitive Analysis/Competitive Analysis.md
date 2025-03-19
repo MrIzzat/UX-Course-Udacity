@@ -1,0 +1,1 @@
+To get started on a design, it's a good idea to analyze the design of competitor products.
