@@ -46,4 +46,4 @@ Particpants say they prefer socializing when on their break, as it helps them re
 
 #### Recommendation
 
-Set up the order in a way where participants are interacting with each other after ordering.
+* Set up the order in a way where participants are interacting with each other after ordering.
