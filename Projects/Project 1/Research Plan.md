@@ -39,11 +39,20 @@ My name is Izzat Almustafa. Thank you for praticipating in this study. I am curr
 
 ##### Warm-up Questions
 
-1. Could you tell me about yourself?
-2. What kind of coffee do you usually drink? 
-3. How often do you drink coffee?
-4. What are you currently studying in Udacity?
-5. Where do you usually get your coffee from?
+1. Could you tell me about yourself?*Breaking the ice*
+<br>
+
+2. What kind of coffee do you usually drink? *Getting to know a little bit about the participant*
+<br>
+
+3. How often do you drink coffee? *Getting an idea of how often they will be coming to the coffee shop*
+<br>
+
+4. What are you currently studying in Udacity?*Getting an idea of the diversity of the students*
+<br>
+
+5. Where do you usually get your coffee from? *Seeing competitors*
+<br>
 
 
 ##### Probe into needs and behavior
@@ -53,14 +62,19 @@ Follow-up questions:
     * Do you prefer to take your breaks alone?
     * Do you enjoy socializing with your peers?
 <br>
-7. How long do you are you studying with Udacity?
+
+7. How long do you are you studying with Udacity? *Seeing how long they've been a student at udacity*
     * Would having a Udacity Coffee Shop make you want to stay with Udacity longer?
 <br>
-8. How often do you take breaks between lessons?
 
-9. You mentioned you currently drink coffee from starbucks, how often do you go there?
+8. How often do you take breaks between lessons? *Get an idea of how long each person is going to be staying in the coffee shop*
+<br>
 
-10. When is the last time you have enjoyed a coffee break with peers?
+9. You mentioned you currently drink coffee from starbucks, how often do you go there? *Get an idea of how often the same student will be coming to the coffee shop*
+<br>
+
+10. When is the last time you have enjoyed a coffee break with peers?  *To see if they like socializing in the coffee shop*
+<br>
 
 ## Survey interview
 ### Background
