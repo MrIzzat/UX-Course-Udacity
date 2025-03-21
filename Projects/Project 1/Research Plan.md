@@ -63,7 +63,7 @@ Follow-up questions:
     * Do you enjoy socializing with your peers?
 <br>
 
-7. How long do you are you studying with Udacity? *Seeing how long they've been a student at udacity*
+7. How long have been you studying with Udacity? *Seeing how long they've been a student at udacity*
     * Would having a Udacity Coffee Shop make you want to stay with Udacity longer?
 <br>
 
